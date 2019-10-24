@@ -1,0 +1,352 @@
+html {
+    font-size: 12px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, p, ul, ol {
+    margin: 0 20px;
+    padding: 1rem 0;
+}
+
+
+p{
+    margin: 0 20px;
+    padding: 0rem 0;
+}
+
+p1 {
+    margin: 0 20px;
+    padding: 5rem 0;
+}
+
+body{
+    font-family: Helvetica, Georgia, "Times New Roman", Times, serif;
+    line-height: 1.5;
+    color: #000;/* Sets the text colour to black*/
+    background: transparent;/* Sets the page background colour to transparent*/
+}
+
+.captions{
+    font-size: 0.9rem;
+    margin: 0.5rem .5rem 1rem;
+    text-align: left;
+}
+
+.tables{
+	border-collapse:collapse;
+	border: 3px;
+	border-spacing:0;
+	width:50%;
+	display:table
+}
+
+h1, h2, h3 {
+    font-weight: bold; /*Sets the page background to transparent*/
+    text-transform: uppercase; /*Capitalises (uppercase) each heading style*/
+	margin: 0 20px;
+    padding: 1rem 0;
+}
+
+h1{
+    font-size: 5rem;/* Sets the font-size to 1.5 times the html value*/
+}
+
+h2{
+    font-size: 1.25rem;/* Sets the font-size to 1.5 times the html value*/
+}
+
+h3{
+    font-size: 1.125rem; /* Sets the font-size to 1.25 times the html value*/
+}
+
+p{
+    font-size: 1rem;
+}
+
+header .image {
+  width: 310px;
+  height: 110px;
+  background: url(../images/logo-white2.png);
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+article h2 {
+	font-size: 2.5rem;
+}
+
+article p {
+	font-size: 2rem;
+	color: white;
+}
+
+.glyphicon glyphicon-hand-right {
+
+       height: 45px;
+
+}
+.panel p {
+	font-size: 1.125rem;
+    color: black;
+}
+
+article.cataphysics {
+
+ /* background: #93bfda;*/
+ /*background: #474853;*/
+ /*background: #F97618;*/
+ /*background: #F97618;*/
+ background: #eddb15;
+  color: white;
+  padding: 0 0 1rem 0;
+  text-align: left;
+  /*border-right: 4px solid #CAEBF2;
+   border-bottom: 4px solid #CAEBF2;*/
+}
+
+article.raincal {
+
+  /*background: #DAAD86;*/
+  /*background: #86b3d1;*/
+  /*background: #e9b000;*/
+  background: #92d185;
+  color: white;
+  padding: 0 0 1rem 0;
+  text-align: left;
+   /*border-bottom: 4px solid #CAEBF2;*/
+}
+
+
+article.plotto {
+   /*background: #fbeec1;*/
+   /*background: #AAA0A0;*/
+   /*background: #007849;*/
+   background: #83d0d2;
+  color: white;
+   padding: 0 0 1rem 0;
+   text-align: left;
+   /*border-right: 4px solid #CAEBF2;*/
+
+
+}
+article.luncal {
+   /*background: #FFCB9A;*/
+   /*background: #c40315;*/
+   background: #3353c6;
+    color: white;
+   padding: 0 0 1rem 0;
+   text-align: left;
+    /*border-right: 4px solid #CAEBF2;*/
+
+
+}
+
+article.star-sigil {
+   /*background: #FFEBC8;*/
+   /*background: #B1a296;*/
+   /*background: #94618E;*/
+   background: #193b61;
+  color: white;
+    padding: 0 0 1rem 0;
+   text-align: left;
+
+}
+
+article.astro {
+
+  /*background: #B9B266;*/
+  /*background: #844D36;*/
+  background: #54b740;
+  color: white;
+  padding: 0 0 1rem 0;
+  text-align: left;
+  /*border-right: 4px solid #CAEBF2;
+   border-bottom: 4px solid #CAEBF2;*/
+}
+
+/* Link Styles*/
+
+a:link, a:visited, a:active {
+    color: #0088cc;/* Sets the default colour for links*/
+    text-decoration: none; /* Removes default link underline style*/
+}
+
+a:hover{
+    text-decoration: underline; /* Adds links underline style on hover*/
+}
+
+/* Image Styles*/
+
+img{
+    float: left; /* Aligns images to the left by default*/
+    margin: 0 3rem 1rem 0;
+}
+
+img.right{
+    float: right; /* Aligns images to the right*/
+    margin: 0 0 0 1rem;
+}
+
+/* Table Styles*/
+
+table {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+table th{
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #000;
+    padding: 10px 8px;
+    border-bottom: 2px solid #000;
+}
+
+
+table td{
+    font-size:0.9rem;
+    border-bottom: 1px solid #ccc;
+    color: #000;
+    padding: 8px 6px;
+}
+
+
+
+
+caption.captions{
+    font-size: 0.9rem;
+    margin: 0.5rem .5rem 1rem;
+    text-align: left;
+}
+
+
+
+
+table tr:nth-of-type(even){
+    background-color: rgb(225, 225, 225)
+}
+
+table tr:nth-of-type(odd){
+    background-color: rgb(245, 245, 245);
+}
+
+
+
+
+/* Format navbar inside header*/
+
+header .navbar{
+    /* Add 30 px top and bottom padding*/
+    padding: 1px 0;
+}
+
+header .navbar-default {
+    background: #ffffff; /* assigns background colour*/
+    border: none; /*doesn't apply border*/
+}
+/* assigns colour to navbar links */
+header .navbar-default .navbar-nav a{
+    color:  #0088cc; /* assigns colour to navbar links */
+    padding: 15px 15px 3px 15px;
+    font-size: 1rem;
+}
+
+/* applies a colour on hover */
+header .navbar-default .navbar-nav .active a:hover {
+    color: #EEC856;
+}
+/* styling for active link*/
+header .navbar-default .navbar-nav .active a {
+    font-weight: 700;
+    color: #EEC856;
+    background: transparent;
+    border-bottom: 4px solid #EEC856;
+    text-shadow: none;
+}
+/* apply on hover style to active link*/
+header .navbar-default .navbar-nav .active a:hover {
+    color: #E15D5F;
+    background: transparent;
+    text-shadow:  none;
+}
+/* panel styles*/
+
+.panel > .panel-heading {
+    padding: 0px 1px;
+}
+
+
+/* SLide show (carousel) Styles */
+
+.carousel.fade{
+    opacity: 1;
+    margin-top: 100px;
+}
+
+.carousel.fade .item{
+    transition: opacity ease-out.7s;
+    left: 0;
+    opacity: 0;
+    top: 0;
+    position: absolute;
+    width: 100%;
+    display: block;
+}
+
+
+.carousel.fade .item:first-child{
+    top: auto;
+    opacity: 1;
+    position: relative;
+}
+
+
+
+.carousel.fade .item.active {
+    opacity: 1;
+}
+
+.carousel-control {
+    opacity: 0;
+}
+
+.carousel-control.right, .carousel-control.left {
+    background-image: none;
+}
+
+
+/*Footer Styles*/
+.footerR {
+    text-align: right;
+    border-left: 1px solid #999;
+}
+
+.table {
+    width: 80%;
+    border-spacing: 3px;
+	padding: 3px;
+	width: 75%;
+    margin: 0 auto;
+}
+@media only screen and (max-width: 991px) {
+    footer{
+        width:98%;
+        margin: 0 auto;
+    }
+
+
+    .footerR {
+        border-top: 1px solid #999;
+        border-left: none;
+        padding-top: 0.8rem;
+        text-align: left;
+    }
+}

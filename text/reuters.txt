@@ -1,0 +1,26 @@
+﻿The Dorian death toll in the Bahamas officially has reached 30 people — but hundreds are still missing, and authorities said that figure could soar.
+
+The impact: The final death count will be "staggering," Health Minister Duane Sands told local radio: "[T]he public needs to prepare for unimaginable information about the death toll and the human suffering," per the BBC.
+
+The latest:
+
+"Literally hundreds, up to thousands, of people are still missing," Joy Jibrilu, director general of the tourism and aviation ministry, told CNN.
+Many of the missing are children, according to Reuters — including a 6-year-old boy who was blown into the waters of a storm surge.
+The UN says 70,000 people have urgent food, water and shelter needs.
+Hospitals are overwhelmed, the Miami Herald reports. Anyone who needed surgery in Grand Bahama has to leave the island to get it.
+
+Sen. Marco Rubio toured the Bahamas by Coast Guard helicopter, and warned on Twitter that the Abaco islands in the northern Bahamas are "increasingly uninhabitable" and need immediate aid "to prevent a human catastrophe."
+Great Abaco island is "virtually uninhabitable, with bodies piled up, no water, power or food, and militias formed to prevent looting," BBC reports.
+What to watch: Relief efforts are beginning. The Netherlands will send two naval ships with supplies, and cruise ships are helping with transportation and supplies — including 10,000 meals of chicken, rice and fruit being delivered by Royal Caribbean’s Empress of the Seas, per Reuters.
+
+
+File new; file from template; css
+
+
+color scheme;
+
+#0074bf	(0,116,191)
+#f29a1a	(242,154,26)
+#4d5154	(77,81,84)
+#f2efef	(242,239,239)
+#aaaaaa	(170,170,170)
